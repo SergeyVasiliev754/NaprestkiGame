@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NaprestkiGame</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="cup1">Стакан 1</string>
+    <string name="cup2">Стакан 2</string>
+    <string name="cup3">Стакан 3</string>
+    <string name="ball">Шарик</string>
+    <string name="play_again">Играть снова</string>
+</resources>
